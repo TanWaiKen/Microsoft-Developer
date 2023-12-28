@@ -1,2 +1,2 @@
 # Microsoft-Developer
-Use to renew subscription
+Use to improve my skills
