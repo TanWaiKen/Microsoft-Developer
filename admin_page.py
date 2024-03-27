@@ -3,7 +3,7 @@ from convert_dic import turn_dic
 
 
 def check_date(date):
-    from datetime import datetim
+    from datetime import date
     try:
         valid_date = datetime.strptime(date, "%d-%m-%Y")  # Validate date format
         if valid_date > datetime.now():
